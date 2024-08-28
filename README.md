@@ -1,2 +1,2 @@
 # Snowflake100
-Snowflake notes in SQL and python( Snowpark)
+Snowflake Dazbook in SQL and python( Snowpark)
